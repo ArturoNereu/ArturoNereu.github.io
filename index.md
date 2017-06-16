@@ -1,4 +1,5 @@
-
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+ 
 ## Welcome to my page
 
 My name is Arturo Nereu, I'm a game programmer from Mexico City, currently working at [Unity Technologies](unity3d.com) as a Field Engineer for Latin America.
