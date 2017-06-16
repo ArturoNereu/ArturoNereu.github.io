@@ -30,14 +30,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+<img src="https://user-images.githubusercontent.com/263776/27237294-37b3599c-528e-11e7-9196-3c678a5f60e9.png">
 ### The Games I have developed
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Dirty Hal     | <img src="http://phynegames.com/assets/media/games/hal/logo_img.jpg" alt="Dirty Hal" width="205" height="150"> |
-| Fearman       | <img src="http://phynegames.com/assets/media/games/fearman/logo_img.jpg" alt="Fearman" width="205" height="150">  |
-| Mictlan       | <img src="http://phynegames.com/assets/media/games/mictlan/logo_img.jpg" alt="Mictlan" width="205" height="150">  |
+<img src="http://phynegames.com/assets/media/games/hal/logo_img.jpg" alt="Dirty Hal" width="205" height="150"> | <img src="http://phynegames.com/assets/media/games/fearman/logo_img.jpg" alt="Fearman" width="205" height="150">  | <img src="http://phynegames.com/assets/media/games/mictlan/logo_img.jpg" alt="Mictlan" width="205" height="150">  |
 
 ### Keep in touch!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
