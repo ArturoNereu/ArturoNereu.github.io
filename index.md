@@ -17,10 +17,8 @@ I have worked as a game programmer for Mexican game studios, where I did mostly 
 ### Let's stay in touch!
 
 <img src="/images/social_icons/twitter.png" width="75" height="75" href="https://twitter.com/arturonereu">
-github.com/ArturoNereu
-https://www.facebook.com/ArturoNereu
-https://www.linkedin.com/in/arturonereu/
-https://www.youtube.com/channel/UCQqs-jApbR28A2U6mSi9kyA
-https://connect.unity.com/u/5815427632b30600246b5f3b
+<img src="/images/social_icons/github.png" width="75" height="75" href="https://github.com/ArturoNereu">
+<img src="/images/social_icons/facebook.png" width="75" height="75" href="https://www.facebook.com/ArturoNereu">
+<img src="/images/social_icons/youtube.png" width="75" height="75" href="https://www.youtube.com/channel/UCQqs-jApbR28A2U6mSi9kyAu">
 
 
