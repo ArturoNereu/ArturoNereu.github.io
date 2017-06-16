@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/ArturoNereu/ArturoNereu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Arturo Nereu, I'm a game programmer from Mexico City, currently working at [Unity Technologies](unity3d.com) as a Field Engineer for Latin America.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Working mostly on Computer Graphics and Gameplay programming.
+
+I have worked as a game programmer for Mexican game studios, where I did mostly gameplay programming for mobile and web games.
 
 ### Markdown
 
