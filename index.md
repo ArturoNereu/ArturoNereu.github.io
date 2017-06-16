@@ -1,4 +1,4 @@
- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+ <link rel="shortcut icon" type="image/x-icon" href="favicon-32x32.png">
  
 ## Welcome to my page
 
@@ -29,8 +29,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 <img src="https://user-images.githubusercontent.com/263776/27237294-37b3599c-528e-11e7-9196-3c678a5f60e9.png">
 ### The Games I have developed
