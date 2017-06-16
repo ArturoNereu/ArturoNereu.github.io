@@ -30,10 +30,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### The Games I have developed
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArturoNereu/ArturoNereu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Dirty Hal     | <img src="http://phynegames.com/assets/media/games/hal/logo_img.jpg" alt="Dirty Hal" width="205" height="150"> |
+| Fearman       | <img src="http://phynegames.com/assets/media/games/fearman/logo_img.jpg" alt="Fearman" width="205" height="150">  |
+| Mictlan       | <img src="http://phynegames.com/assets/media/games/mictlan/logo_img.jpg" alt="Mictlan" width="205" height="150">  |
 
-### Support or Contact
+### Keep in touch!
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
