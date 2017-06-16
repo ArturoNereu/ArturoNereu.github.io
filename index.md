@@ -15,7 +15,7 @@ I have worked as a game programmer for Mexican game studios, where I did mostly 
 <img src="http://phynegames.com/assets/media/games/hal/logo_img.jpg" alt="Dirty Hal" width="205" height="150"> | <img src="http://phynegames.com/assets/media/games/fearman/logo_img.jpg" alt="Fearman" width="205" height="150">  | <img src="http://phynegames.com/assets/media/games/mictlan/logo_img.jpg" alt="Mictlan" width="205" height="150">  |
 
 ### Let's stay in touch!
-
+3
 <a href="https://twitter.com/arturonereu"> <img src="/images/social_icons/twitter.png" width="75" height="75" ></a>
 <a href="https://github.com/ArturoNereu"> <img src="/images/social_icons/github.png" width="60" height="60"></a>
 <a href="https://www.facebook.com/ArturoNereu"> <img src="/images/social_icons/facebook.png" width="75" height="75" ></a>
