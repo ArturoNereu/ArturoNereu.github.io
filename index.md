@@ -35,6 +35,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <img src="http://phynegames.com/assets/media/games/hal/logo_img.jpg" alt="Dirty Hal" width="205" height="150"> | <img src="http://phynegames.com/assets/media/games/fearman/logo_img.jpg" alt="Fearman" width="205" height="150">  | <img src="http://phynegames.com/assets/media/games/mictlan/logo_img.jpg" alt="Mictlan" width="205" height="150">  |
 
-### Keep in touch!
+### Let's stay in touch!
+
+https://twitter.com/arturonereu
+https://www.facebook.com/ArturoNereu
+https://www.linkedin.com/in/arturonereu/
+https://connect.unity.com/u/5815427632b30600246b5f3b
 
 
