@@ -6,7 +6,6 @@ Working mostly on Computer Graphics and Gameplay programming.
 
 I have worked as a game programmer for Mexican game studios, where I did mostly gameplay programming for mobile and web games.
 
-
 <img src="https://user-images.githubusercontent.com/263776/27237294-37b3599c-528e-11e7-9196-3c678a5f60e9.png">
 ### The Games I have developed
 
@@ -14,9 +13,9 @@ I have worked as a game programmer for Mexican game studios, where I did mostly 
 
 ### Let's stay in touch!
 
-<a href="https://twitter.com/arturonereu"> <img src="/images/social_icons/twitter.png" width="75" height="75" ></a>
-<a href="https://github.com/ArturoNereu"> <img src="/images/social_icons/github.png" width="60" height="60"></a>
-<a href="https://www.facebook.com/ArturoNereu"> <img src="/images/social_icons/facebook.png" width="75" height="75" ></a>
-<a href="https://www.youtube.com/channel/UCQqs-jApbR28A2U6mSi9kyAu"> <img src="/images/social_icons/youtube.png" width="75" height="75"></a>
+<a href="https://twitter.com/arturonereu"> <img src="/assets/images/social_icons/twitter.png" width="75" height="75" ></a>
+<a href="https://github.com/ArturoNereu"> <img src="/assets/images/social_icons/github.png" width="60" height="60"></a>
+<a href="https://www.facebook.com/ArturoNereu"> <img src="/assets/images/social_icons/facebook.png" width="75" height="75" ></a>
+<a href="https://www.youtube.com/c/ArturoNereu"> <img src="/images/social_icons/youtube.png" width="75" height="75"></a>
 
 
