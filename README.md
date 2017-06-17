@@ -2,5 +2,6 @@
 Arturo Nereu's personal website
 
 ToDo:
-- Add reel of youtube appeareances
-- Add picture of myself
+[] Add reel of youtube appeareances
+[] Add picture of myself
+[] Switch to plain html
