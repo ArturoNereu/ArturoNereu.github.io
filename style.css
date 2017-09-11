@@ -9,14 +9,11 @@ img
 	margin: 0 auto;
 }
 
-#footer
+#footer 
 {
-	margin: 0px auto;
-	width: 850px;
-}
-
-#footer.social
-{
-	margin: auto;
-    height: 330px;
+    clear: both;
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+    text-align: center;
 }
