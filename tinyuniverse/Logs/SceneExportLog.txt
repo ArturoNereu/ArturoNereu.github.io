@@ -2,6 +2,8 @@
 1b436f617d6d3bb49aba65ff9f2581c7 = Assets/Scenes/Main.unity
 34c1c1232ad50de47bde0e4799ae6610 = Assets/Scenes/Ship Turn Table.unity
 56bf2fbb547dcb1574eee567b728f3b6 = Assets/Textures/SpaceShip_Base_Color.png
+94cda5d947ad77b9bfa88d6e23cdb66c = Assets/Textures/SpaceShip_Metallic.png
+ba023d1a4d9225a89abb30ba005132d6 = Assets/Textures/SpaceShip_Normal.png
 46b433b264c69cbd39f04ad2e5d12be8 = Configuration
 
 
