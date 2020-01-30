@@ -46,17 +46,17 @@ function revokeURL(url) {
 
 
 
-
-
-
-
-
-  // No modularize, asm.js in its own file, separate .mem init file
-  Promise.all([b('Tiny3D.js'), s('Tiny3D.asm.js'), b('Tiny3D.mem')]).then((r) => {
-    Module.mem = r[2];
+  // No modularize, no streaming wasm compilation, no separate .mem init file
+  Promise.all([b('Tiny3D.js'), b('Tiny3D.wasm')]).then((r) => {
+    Module.wasm = r[1];
     var url = URL.createObjectURL(new Blob([r[0]], { type: 'application/javascript' }));
     s(url).then(() => { revokeURL(url) });
   });
+
+
+
+
+
 
 </script>
 </body>

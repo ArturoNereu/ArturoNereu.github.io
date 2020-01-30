@@ -1,14 +1,14 @@
 Warning: UseBurst specified, but target does not support burst yet. Not using burst.
 Warning: UseBurst specified, but target does not support burst yet. Not using burst.
-[       1s] Executed build program. Created build graph with 1058 nodes.
-[     2s] Build frontend of artifacts\tundra_Asmjs-Tiny3D_gbh.dag ran (build file timestamp changed: settings/Asmjs-Tiny3D.json)
-[ 915/1020  0s] CopyTool ../../Builds/Asmjs-Tiny3D/Data/34c1c1232ad50de47bde0e4799ae6610
-[ 916/1020  0s] CopyTool ../../Builds/Asmjs-Tiny3D/Data/1b436f617d6d3bb49aba65ff9f2581c7
-[1013/1020  4s] CopyTool ../../Builds/Asmjs-Tiny3D/Data/56bf2fbb547dcb1574eee567b728f3b6
-[1014/1020  4s] CopyTool ../../Builds/Asmjs-Tiny3D/Data/46b433b264c69cbd39f04ad2e5d12be8
-[BUSY       9s] Link_WebGL_asmjs artifacts/Tiny3D.il2cpp/Asmjs-Tiny3D/Tiny3D.html (+3 others)
-[BUSY      19s] Link_WebGL_asmjs artifacts/Tiny3D.il2cpp/Asmjs-Tiny3D/Tiny3D.html (+3 others)
-[1015/1020 24s] Link_WebGL_asmjs artifacts/Tiny3D.il2cpp/Asmjs-Tiny3D/Tiny3D.html (+3 others)
+[       1s] Executed build program. Created build graph with 1057 nodes.
+[     2s] Build frontend of artifacts\tundra_Wasm-Tiny3D_od1.dag ran (build file timestamp changed: settings/Wasm-Tiny3D.json)
+[ 915/1019  0s] CopyTool ../../Builds/Wasm-Tiny3D/Data/1b436f617d6d3bb49aba65ff9f2581c7
+[ 916/1019  0s] CopyTool ../../Builds/Wasm-Tiny3D/Data/34c1c1232ad50de47bde0e4799ae6610
+[ 921/1019  0s] CopyTool ../../Builds/Wasm-Tiny3D/Data/46b433b264c69cbd39f04ad2e5d12be8
+[ 922/1019  0s] CopyTool ../../Builds/Wasm-Tiny3D/Data/56bf2fbb547dcb1574eee567b728f3b6
+[BUSY       6s] Link_WebGL_wasm artifacts/Tiny3D.il2cpp/Wasm-Tiny3D/Tiny3D.html (+wasm,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/Tiny3D.il2cpp/Wasm-Tiny3D/Tiny3D.html (+wasm,js)
+[1015/1019 20s] Link_WebGL_wasm artifacts/Tiny3D.il2cpp/Wasm-Tiny3D/Tiny3D.html (+wasm,js)
 warning: unexpected return type i8* in call to 'SetTempSliceHandle', should be void
 
 warning: unexpected return type i8* in call to 'SetTempMemSafetyHandle', should be void
@@ -16,8 +16,7 @@ warning: unexpected return type i8* in call to 'SetTempMemSafetyHandle', should 
 warning: unexpected return type i32 in call to 'Close', should be void
 
 warning: unexpected return type i32 in call to 'Close', should be void
-[1016/1020  0s] CopyTool ../../Builds/Asmjs-Tiny3D/Tiny3D.js
-[1017/1020  0s] CopyTool ../../Builds/Asmjs-Tiny3D/Tiny3D.mem
-[1018/1020  0s] CopyTool ../../Builds/Asmjs-Tiny3D/Tiny3D.asm.js
-[1019/1020  0s] CopyTool ../../Builds/Asmjs-Tiny3D/Tiny3D.html
-*** Bee build success (26.84 seconds), 9 items updated
+[1016/1019  0s] CopyTool ../../Builds/Wasm-Tiny3D/Tiny3D.js
+[1017/1019  0s] CopyTool ../../Builds/Wasm-Tiny3D/Tiny3D.wasm
+[1018/1019  0s] CopyTool ../../Builds/Wasm-Tiny3D/Tiny3D.html
+*** Bee build success (23.27 seconds), 8 items updated
