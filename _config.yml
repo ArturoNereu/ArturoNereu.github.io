@@ -1,0 +1,17 @@
+title: Arturo Nereu
+# email: arturo@unity3d.com
+description: Living the code life.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: arturonereu
+github_username:  arturonereu
+youtube_username: arturonereu
+linkedin_username: arturonereu
+
+# Includes
+include: [_pages, _assets]
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
