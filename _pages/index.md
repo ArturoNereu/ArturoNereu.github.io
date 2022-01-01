@@ -5,5 +5,3 @@
 permalink: /
 layout: page
 ---
-
-## Welcome
