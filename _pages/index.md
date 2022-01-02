@@ -6,9 +6,9 @@ permalink: /
 layout: page
 ---
 
-#### ![Arturo Headshot 2021](/../_assets/headshot_2021.png){: class="img-responsive" style="float: left"} 
 
-#### I'm a game developer from Mexico City living in Austin, Texas. 
+I'm a game developer from Mexico City living in Austin, Texas. 
 
-#### Currently working at Unity Technologies as a Developer Advocate.
+Currently working at Unity Technologies as a Developer Advocate.
 
+Please, feel free to reach out. Twitter DM's might be the best way.
