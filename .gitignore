@@ -1,3 +1,6 @@
 _site/
 _assets/.DS_Store
-_assets/.DS_Store
+.jekyll-cache/
+.DS_Store
+Gemfile
+Gemfile.lock
