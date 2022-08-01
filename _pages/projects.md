@@ -7,7 +7,8 @@ title: Projects
 # Project's I've collaborated on
 
 <ul>
-  {% for post in site.posts %}
+  {% assign filtered_posts = site.posts | where_exp: 'post', "post.category == 'project'" %}
+  {% for post in filtered_posts.posts %}
     <li>
       <a href="{{ post.url }}">
         {{ post.title }}
