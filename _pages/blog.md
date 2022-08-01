@@ -6,7 +6,8 @@ title: Blog
 # Arturo Nereu's Blog
 
 <ul>
-  {% for post in site.posts %}
+  {% assign filtered_posts = site.posts | where_exp: 'post', "post.category == 'blog'" %}
+  {% for post in filtered_posts.posts %}
     <li>
       <a href="{{ post.url }}">
         {{ post.title }}
